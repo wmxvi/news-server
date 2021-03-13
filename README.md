@@ -1,5 +1,7 @@
 # News app by Elmario Husha
 
+Please configure the API by adding your https://newsapi.org key to .env
+
 Due to the data structure of the News API, I could not implement JWT authentication
 
 ## Available Scripts
