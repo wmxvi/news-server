@@ -21,7 +21,7 @@ import * as dotenv from "dotenv";
             throw new Error(response.statusText)
         }
         
-        return response.json<T>()
+        return response.json()
         
     }).then((data: { articles: Article; }) => {
 

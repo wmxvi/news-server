@@ -10,3 +10,7 @@ In the project directory, you can run:
 
 Runs the server in the development mode.\
 Open [http://localhost:7000](http://localhost:7000) to view it in the browser.
+
+### `yarn test`
+
+Runs API tests
