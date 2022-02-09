@@ -1,4 +1,4 @@
-# News app by Elmario Husha
+# News app
 
 Please configure the API by adding your https://newsapi.org key to .env
 
